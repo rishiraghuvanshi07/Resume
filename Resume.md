@@ -1,8 +1,8 @@
 ---
-title: "Rishi Raghuvanshi" 
-author: "Rishi Raghuvanshi"
-date: "February 2, 2018"
-output: html_document
+#title: "Rishi Raghuvanshi" 
+#author: "Rishi Raghuvanshi"
+#date: "February 2, 2018"
+#output: html_document
 ---
 <div style="width: 59%; display: inline-block; text-align: left;">
 <text style="text-align:left;font-size:40px;font-family:Lucida Sans Unicode;color:#394559">Rishi Raghuvanshi</text>
